@@ -1,4 +1,4 @@
-// 
+// https://github.com/NoahLacks63/UMO_COS225/tree/main/Homework1
 
 public class BookTester {
     public static void main(String[] args) {
